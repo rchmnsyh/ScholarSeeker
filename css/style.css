@@ -14,7 +14,7 @@ body {
 	font-weight: 700;
 	font-size: .9rem;
 	letter-spacing: .1rem;
-	background: rgb(62, 77, 100)!important;
+	background: #3e4d64!important;
 }
 .navbar-brand img{
 	height: 2rem;
@@ -79,7 +79,9 @@ body {
   margin: 1rem;
 }
 
-
+footer {
+	background-color: #3e4d64;
+}
 
 /*============ BOOTSTRAP BREAK POINTS:
 
