@@ -14,10 +14,8 @@ body {
   	background-size: cover;
 }
 
-.login {
-	padding-left: 200px;
-	padding-top: 300px;
-	
+.register{
+	padding-left: 30px;
+	padding-top: 60px;
 }
-
 
