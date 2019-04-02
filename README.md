@@ -34,8 +34,9 @@ PC, Laptop atau Smartphone yang dilengkapi dengan Browser dan Internet
 
 * [Code Igniter](https://codeigniter.com/) - Framework Web
 * [Bootstrap 4](https://getbootstrap.com/) - Web toolkit
-* [DataTables](https://datatables.net/) - Table Flugin
+* [DataTables](https://datatables.net/) - Table Plugin
 * [jQueryPlugin](https://plugins.jquery.com/) - Plugin
+* [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) - Plugin
 
 ## Versi Web
 
