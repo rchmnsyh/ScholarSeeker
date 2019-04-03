@@ -12,7 +12,7 @@
       <div class="carousel-caption text-left">
         <h1>welcome to <br>
         scholarseeker</h1>
-        <h3>is the future as expensive as college? dont't worry.<br>we facilitized students for the bright future. join us and find your perfect college.</h3>
+        <h3>is the future as expensive as college? don't worry.<br>we facilitize students for the bright future. join us and find your perfect college.</h3>
         <a class="btn btn-lg btn-outline-light btn-custom ">Register Now</a>
       </div>
     </div>
