@@ -8,6 +8,9 @@
 <!-- Bootstrap -->
 <link href="<?= base_url('assets/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
 
+<!-- Global Custom styles -->
+<link href="<?= base_url('assets/css/style.css') ?>" rel="stylesheet">
+
 <!-- Datatables -->
 <link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
 

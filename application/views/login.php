@@ -3,11 +3,9 @@
 <head>
 
     <?php $this->load->view("_partials/head.php") ?>
-
+    
 </head>
-<body id="home" data-spy="scroll" data-target="navbarResponsive">
-
-    <?php $this->load->view("_partials/navbar.php") ?>
+<body>
 
     <section class="kosong"></section>
     <section class="login text-center">
@@ -44,5 +42,6 @@
     </section>
 
     <?php $this->load->view("_partials/js.php") ?>
+    
 </body>
 </html>

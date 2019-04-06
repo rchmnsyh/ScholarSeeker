@@ -13,7 +13,7 @@
                             <li class="nav-item"> <a class="nav-link" href="#about">ABOUT</a> </li>
                             <li class="nav-item"> <a class="nav-link" href="#scholar">SCHOLAR</a> </li>
                             <li class="nav-item"> <a class="nav-link" href="#news">NEWS</a> </li>
-                            <li class="nav-item"> <a class="nav-link" href="#team">TEAM</a> </li>
+                            <li class="nav-item"> <a class="nav-link" href="#contact">CONTACT</a> </li>
                             <li class="nav-item"><a href="#" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">SIGN IN</a></li>
                         </ul>
                     </div>
