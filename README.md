@@ -47,7 +47,7 @@ Untuk melihat versi dari web, silahkan kunjungi [tags di repository ini](https:/
 * **Aanisah Rifda** - *Initial work* - [Aanisah Rifda](https://github.com/)
 * **Irbah Salsabila** - *Initial work* - [Irbah Salsabila](https://github.com/)
 * **Iriyanto** - *Initial work* - [Iriyanto](https://github.com/iriyanto27)
-* **your_name** - *Initial work* - [your_name](https://github.com/)
+* **Rachmansyah Adhi Widhianto** - *Initial work* - [Rachmansyah Adhi Widhianto](https://github.com/rchmnsyh)
 * **your_name** - *Initial work* - [your_name](https://github.com/)
 
 Bisa juga lihat [contributors](https://github.com/iriyanto27/ScholarSeeker/graphs/contributors) untuk melihat siapa saja yang berkontribusi dalam tubes ini.
